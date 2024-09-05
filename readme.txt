@@ -1,7 +1,7 @@
 Grigore Cosmin Mitica 322CC
 
-													TEMA 2
-										  PROTOCOALE DE COMUNICATIE
+											
+						NEWS APPLICATION
 
 Protocol peste TCP: Am creat o structura, mesajTCP, care are drept campuri: structura sockaddr a clientului UDP de la care a venit mesajul,
 topic-ul mesajului, tipul de date, si payload-ul mesajului.
